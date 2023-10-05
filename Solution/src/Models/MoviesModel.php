@@ -30,11 +30,13 @@ class MoviesModel extends A_Model
      */
     function insertMovie(array $data): false|string
     {
+
         $sql = "INSERT INTO movies (title, year, released, runtime, genre, director, actors, country, 
     poster, imdb, type) VALUES (?,?,?,?,?,?,?,?,?,?,?)";
         $stmt = $this->getPdo()->prepare($sql);
         $stmt->execute([$data[0], $data[1], $data[2], $data[3], $data[4], $data[5], $data[6], $data[7],
             $data[8], $data[9], $data[10]]);
+
         return $this->getPdo()->lastInsertId();
     }
 

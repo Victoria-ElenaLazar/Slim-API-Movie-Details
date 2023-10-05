@@ -11,20 +11,20 @@ readonly class Year
     /**
      * @throws AssertionFailedException
      */
-    public function __construct(private string $year)
+    public function __construct(private int $year)
     {
-        Assertion::string($this->year, "The year should be formed by 4 characters. Ex: 1964");
+        Assertion::integer($this->year, "The year should be formed by 4 characters. Ex: 1964");
 
     }
 
-    public function toString(): string
+    public function toString(): int
     {
         return $this->year;
     }
 
     public function __toString(): string
     {
-        return $this->toString();
+        return (string)$this->toString();
     }
 
 }

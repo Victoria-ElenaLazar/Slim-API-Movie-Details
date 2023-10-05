@@ -11,18 +11,18 @@ readonly class Imdb
     /**
      * @throws AssertionFailedException
      */
-    public function __construct(private string $imdb)
+    public function __construct(private float $imdb)
     {
-        Assertion::string($this->imdb, 'The imdb should be type of float and represent the imdb rating.');
+        Assertion::float($this->imdb, 'The imdb should be type of float and represent the imdb rating.');
     }
 
-    public function toString(): string
+    public function toString(): float
     {
         return $this->imdb;
     }
 
     public function __toString(): string
     {
-        return $this->toString();
+        return (string)$this->toString();
     }
 }

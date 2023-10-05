@@ -8170,3 +8170,750 @@ BODY: {
 }
 
 
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: {
+    "code": 200,
+    "message": "Movie has been published.",
+    "movie_id": "51"
+}
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: {
+    "code": 200,
+    "message": "Movie has been published.",
+    "movie_id": "53"
+}
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: {
+    "code": 200,
+    "message": "Movie has been published.",
+    "movie_id": "55"
+}
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: {
+    "code": 200,
+    "message": "Movie has been published.",
+    "movie_id": "57"
+}
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: [
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "released": "17 Feb 1995",
+        "runtime": "142 min",
+        "genre": "Drama",
+        "director": "\r\nFrank Darabont",
+        "actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.3,
+        "type": "Movie"
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "year": "1972",
+        "released": "24 Aug 1972",
+        "runtime": "175 min",
+        "genre": "crime, drama",
+        "director": "\r\nFrancis Ford Coppola",
+        "actors": "\r\nMarlon Brando, Al Pacino, James Caan",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.2,
+        "type": "Movie"
+    },
+    {
+        "id": 3,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "released": "17 Dec 2003",
+        "runtime": "201 min",
+        "genre": "Action, Adventure, Drama",
+        "director": "\r\nPeter Jackson",
+        "actors": "\r\nElijah Wood, Viggo Mortensen, Ian McKellen",
+        "country": "New Zealand, United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9,
+        "type": "Movie"
+    },
+    {
+        "id": 4,
+        "title": "The Matrix",
+        "year": "1999",
+        "released": "11 Jun 1999",
+        "runtime": "136 min",
+        "genre": "Action, Sci-Fi",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "actors": "\r\nKeanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.7,
+        "type": "Movie"
+    },
+    {
+        "id": 5,
+        "title": "City of God",
+        "year": "2002",
+        "released": "3 Jan 2003",
+        "runtime": "170 min",
+        "genre": "Crime, Drama",
+        "director": "\r\nFernando Meirelles, K\u00e1tia Lund",
+        "actors": "\r\nAlexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNTM4MjZjNWEtMmQxMi00YzY5LTg4ZTAtODJlMDVkZWZmNTVhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.6,
+        "type": "Movie"
+    },
+    {
+        "id": 6,
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "released": "25 Aug 1995",
+        "runtime": "106 min",
+        "genre": "Crime, Drama, Mystery",
+        "director": "Bryan Singer",
+        "actors": "\r\nKevin Spacey, Gabriel Byrne, Chazz Palminteri",
+        "country": "United States, Germany",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.5,
+        "type": "Movie"
+    },
+    {
+        "id": 7,
+        "title": "The Shining",
+        "year": "1980",
+        "released": "5 Oct 1980, Uni",
+        "runtime": "146 min",
+        "genre": "Drama, Horror",
+        "director": "Stanley Kubrick",
+        "actors": "\r\nJack Nicholson, Shelley Duvall, Danny Lloyd",
+        "country": "United States, United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.4,
+        "type": "Movie"
+    },
+    {
+        "id": 8,
+        "title": "Breaking Bad",
+        "year": "2008",
+        "released": "28 Sep 2008",
+        "runtime": "49 min",
+        "genre": "Crime, Drama, Thriler",
+        "director": "Vince Gilligan",
+        "actors": "Bryan Cranston, Aaron Paul, Anna Gunn",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.5,
+        "type": "Tv Series"
+    },
+    {
+        "id": 9,
+        "title": "Band of Brothers",
+        "year": "2001",
+        "released": "5 Oct 2001",
+        "runtime": "55 min",
+        "genre": "Drama, History, War",
+        "director": "-",
+        "actors": "\r\nScott Grimes, Damian Lewis, Ron Livingston",
+        "country": "United States, United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.4,
+        "type": "TV Mini-Series"
+    },
+    {
+        "id": 10,
+        "title": "Chernobyl",
+        "year": "2019",
+        "released": "7 May 2019",
+        "runtime": "58 min",
+        "genre": "Drama, History, Thriller",
+        "director": "Craig Mazin",
+        "actors": "Jared Harris, Michael Shaeffer, Jessie Buckley",
+        "country": "United States, United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNTdkN2QwMDItMDVhNS00ZjFiLWEzNTctMzY5ODQzYWNkMDllXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.3,
+        "type": "TV Mini-Series"
+    },
+    {
+        "id": 11,
+        "title": "Top-Boy",
+        "year": "2011",
+        "released": "31 Oct 2011",
+        "runtime": "120 min",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Ronan Bennett",
+        "actors": "Ashley Walters, Kano, Jasmine Jobson",
+        "country": "United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYzJiNDBlZDAtYTM1MS00OWQwLTg1MWItYmExMDY4YWJmNGIxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.4,
+        "type": "Tv-series"
+    },
+    {
+        "id": 13,
+        "title": "The Godfather",
+        "year": "1972",
+        "released": "24 Aug 1972",
+        "runtime": "175 min",
+        "genre": "crime, drama",
+        "director": "Francis Ford Coppola",
+        "actors": "Marlon Brando, Al Pacino, James Caan",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.2,
+        "type": "Movie"
+    },
+    {
+        "id": 17,
+        "title": "A little bit pregnant",
+        "year": "2015",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 5.3,
+        "type": "Movie"
+    },
+    {
+        "id": 45,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.4,
+        "type": "Movie"
+    },
+    {
+        "id": 49,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 50,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 51,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 52,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 53,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 54,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 55,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 56,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 57,
+        "title": "Another Movie",
+        "year": "2013",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 58,
+        "title": "Another Movie",
+        "year": "2013",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    }
+]
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: [
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "released": "17 Feb 1995",
+        "runtime": "142 min",
+        "genre": "Drama",
+        "director": "\r\nFrank Darabont",
+        "actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.3,
+        "type": "Movie"
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "year": "1972",
+        "released": "24 Aug 1972",
+        "runtime": "175 min",
+        "genre": "crime, drama",
+        "director": "\r\nFrancis Ford Coppola",
+        "actors": "\r\nMarlon Brando, Al Pacino, James Caan",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.2,
+        "type": "Movie"
+    },
+    {
+        "id": 3,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "released": "17 Dec 2003",
+        "runtime": "201 min",
+        "genre": "Action, Adventure, Drama",
+        "director": "\r\nPeter Jackson",
+        "actors": "\r\nElijah Wood, Viggo Mortensen, Ian McKellen",
+        "country": "New Zealand, United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9,
+        "type": "Movie"
+    },
+    {
+        "id": 4,
+        "title": "The Matrix",
+        "year": "1999",
+        "released": "11 Jun 1999",
+        "runtime": "136 min",
+        "genre": "Action, Sci-Fi",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "actors": "\r\nKeanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.7,
+        "type": "Movie"
+    },
+    {
+        "id": 5,
+        "title": "City of God",
+        "year": "2002",
+        "released": "3 Jan 2003",
+        "runtime": "170 min",
+        "genre": "Crime, Drama",
+        "director": "\r\nFernando Meirelles, K\u00e1tia Lund",
+        "actors": "\r\nAlexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNTM4MjZjNWEtMmQxMi00YzY5LTg4ZTAtODJlMDVkZWZmNTVhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.6,
+        "type": "Movie"
+    },
+    {
+        "id": 6,
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "released": "25 Aug 1995",
+        "runtime": "106 min",
+        "genre": "Crime, Drama, Mystery",
+        "director": "Bryan Singer",
+        "actors": "\r\nKevin Spacey, Gabriel Byrne, Chazz Palminteri",
+        "country": "United States, Germany",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.5,
+        "type": "Movie"
+    },
+    {
+        "id": 7,
+        "title": "The Shining",
+        "year": "1980",
+        "released": "5 Oct 1980, Uni",
+        "runtime": "146 min",
+        "genre": "Drama, Horror",
+        "director": "Stanley Kubrick",
+        "actors": "\r\nJack Nicholson, Shelley Duvall, Danny Lloyd",
+        "country": "United States, United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.4,
+        "type": "Movie"
+    },
+    {
+        "id": 8,
+        "title": "Breaking Bad",
+        "year": "2008",
+        "released": "28 Sep 2008",
+        "runtime": "49 min",
+        "genre": "Crime, Drama, Thriler",
+        "director": "Vince Gilligan",
+        "actors": "Bryan Cranston, Aaron Paul, Anna Gunn",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.5,
+        "type": "Tv Series"
+    },
+    {
+        "id": 9,
+        "title": "Band of Brothers",
+        "year": "2001",
+        "released": "5 Oct 2001",
+        "runtime": "55 min",
+        "genre": "Drama, History, War",
+        "director": "-",
+        "actors": "\r\nScott Grimes, Damian Lewis, Ron Livingston",
+        "country": "United States, United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.4,
+        "type": "TV Mini-Series"
+    },
+    {
+        "id": 10,
+        "title": "Chernobyl",
+        "year": "2019",
+        "released": "7 May 2019",
+        "runtime": "58 min",
+        "genre": "Drama, History, Thriller",
+        "director": "Craig Mazin",
+        "actors": "Jared Harris, Michael Shaeffer, Jessie Buckley",
+        "country": "United States, United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNTdkN2QwMDItMDVhNS00ZjFiLWEzNTctMzY5ODQzYWNkMDllXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.3,
+        "type": "TV Mini-Series"
+    },
+    {
+        "id": 11,
+        "title": "Top-Boy",
+        "year": "2011",
+        "released": "31 Oct 2011",
+        "runtime": "120 min",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Ronan Bennett",
+        "actors": "Ashley Walters, Kano, Jasmine Jobson",
+        "country": "United Kingdom",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYzJiNDBlZDAtYTM1MS00OWQwLTg1MWItYmExMDY4YWJmNGIxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.4,
+        "type": "Tv-series"
+    },
+    {
+        "id": 13,
+        "title": "The Godfather",
+        "year": "1972",
+        "released": "24 Aug 1972",
+        "runtime": "175 min",
+        "genre": "crime, drama",
+        "director": "Francis Ford Coppola",
+        "actors": "Marlon Brando, Al Pacino, James Caan",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 9.2,
+        "type": "Movie"
+    },
+    {
+        "id": 17,
+        "title": "A little bit pregnant",
+        "year": "2015",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 5.3,
+        "type": "Movie"
+    },
+    {
+        "id": 45,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 8.4,
+        "type": "Movie"
+    },
+    {
+        "id": 49,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 50,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 51,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 52,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 53,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 54,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 55,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 56,
+        "title": "New Movie",
+        "year": "2016",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 57,
+        "title": "Another Movie",
+        "year": "2013",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    },
+    {
+        "id": 58,
+        "title": "Another Movie",
+        "year": "2013",
+        "released": "13 Sep 2015",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "director": "Ashley McKollen",
+        "actors": "Pamela Andersen",
+        "country": "United States",
+        "poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "imdb": 84,
+        "type": "Movie"
+    }
+]
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: {
+    "code": 200,
+    "message": "Movie has been published.",
+    "movie_id": "59"
+}
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: {
+    "code": 200,
+    "message": "Movie has been published.",
+    "movie_id": "61"
+}
+
+
+STATUS CODE: 200
+HEADERS: {"Content-Type":["application\/json"]}
+BODY: {
+    "code": 200,
+    "message": "Movie has been published.",
+    "movie_id": "63"
+}
+
+

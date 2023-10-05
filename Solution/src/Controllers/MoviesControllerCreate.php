@@ -117,7 +117,7 @@ class MoviesControllerCreate extends A_Controller
         $actors = filter_var(trim($requestBody['actors']), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
         $country = filter_var(trim($requestBody['country']), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
         $poster = filter_var($requestBody['poster'], FILTER_SANITIZE_FULL_SPECIAL_CHARS);
-        $imdb = filter_var($requestBody['imdb'], FILTER_SANITIZE_NUMBER_FLOAT);
+        $imdb = filter_var($requestBody['imdb'], FILTER_SANITIZE_NUMBER_FLOAT, FILTER_FLAG_ALLOW_FRACTION);
         $type = filter_var(trim($requestBody['type']), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 
         $movies = new MoviesModel($this->container);
@@ -126,7 +126,7 @@ class MoviesControllerCreate extends A_Controller
             $movieId = $movies->insertMovie(
                 [
                     new Title($title),
-                    new Year($year),
+                    new Year((int)$year),
                     new Released($released),
                     new Runtime($runtime),
                     new Genre($genre),
@@ -134,7 +134,7 @@ class MoviesControllerCreate extends A_Controller
                     new Actors($actors),
                     new Country($country),
                     new Poster($poster),
-                    new Imdb($imdb),
+                    new Imdb((float)$imdb),
                     new Type($type)
                 ]
             );

@@ -7006,3 +7006,411 @@ BODY: {
 	}
 
 
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["403"]}
+BODY: {
+		"title": "New Movie",
+		"year": 2016,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["403"]}
+BODY: {
+		"title": "New Movie",
+		"year": 2016,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["403"]}
+BODY: {
+		"title": "New Movie",
+		"year": 2016,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["403"]}
+BODY: {
+		"title": "New Movie",
+		"year": 2016,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["403"]}
+BODY: {
+		"title": "New Movie",
+		"year": 2016,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["403"]}
+BODY: {
+		"title": "New Movie",
+		"year": 2016,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["403"]}
+BODY: {
+		"title": "New Movie",
+		"year": 2016,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["407"]}
+BODY: {
+		"title": "Another Movie",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["407"]}
+BODY: {
+		"title": "Another Movie",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["407"]}
+BODY: {
+		"title": "Another Movie",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["407"]}
+BODY: {
+		"title": "Another Movie",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
+URI: http://localhost:8080/v1/movies
+HEADERS: {"Host":["localhost:8080"],"Content-Type":["application\/json"],"User-Agent":["Insomnia\/2023.5.7"],"Authorization":["Bearer user2Token"],"Accept":["*\/*"],"Content-Length":["408"]}
+BODY: {
+		"title": "Another Movie1",
+		"year": 2013,
+		"released": "13 Sep 2015",
+		"runtime": "80 min",
+		"genre": "Comedy",
+		"director": "Ashley McKollen",
+		"actors": "Pamela Andersen",
+		"country": "United States",
+		"poster": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"imdb": 8.4,
+		"type": "Movie"
+	}
+
+
