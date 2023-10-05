@@ -1,4 +1,3 @@
-
 # API Slim Framework-Movie Details
 Welcome to the API Slim Framework-Movie Details documentation!
 This API provides information about movies, including details such as
@@ -114,3 +113,6 @@ DELETE /v1/movies/{id}
 ```
 
 
+=======
+# SlimAPI-MovieDetails
+Developing this project helped me to learn and understand how to create a REST API using Slim Framework
