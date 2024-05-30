@@ -122,7 +122,7 @@ Developing this project helped me to learn and understand how to create a REST A
 ## Project Demo
 
 
-[Watch the video](public/movie-details.mov)
+[Watch the video](Solution/public/movie-details.mov)
 
-Or [download the video](public/movie-details.mov) to watch it.
+Or [download the video](Solution/public/movie-details.mov) to watch it.
 
