@@ -17,6 +17,8 @@ This project helped me to learn and understand how to create and use a REST API 
 
 -[Examples](#examples)
 
+-[Project Demo](#project-demo)
+
 ## [Requirements](#requirements)
 
 - PHP 8.2
@@ -116,3 +118,11 @@ DELETE /v1/movies/{id}
 =======
 # SlimAPI-MovieDetails
 Developing this project helped me to learn and understand how to create a REST API using Slim Framework
+
+## Project Demo
+
+
+[Watch the video](public/movie-details.mov)
+
+Or [download the video](public/movie-details.mov) to watch it.
+
